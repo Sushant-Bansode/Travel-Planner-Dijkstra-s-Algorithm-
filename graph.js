@@ -1,6 +1,3 @@
-/**
- * Created by aarnavjindal on 19/03/20.
- */
 
 function createGraph(V,E){
     // V - Number of vertices in graph
